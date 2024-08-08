@@ -5,7 +5,7 @@ import regex as re
 #import openai
 
 # Set your OpenAI API key
-openai.api_key = 'your_openai_api_key'
+#openai.api_key = 'your_openai_api_key'
 
 def convert_to_dax_expression(expression):
     try:
